@@ -1,10 +1,10 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 
-const char* ssid = "Antonia";
-const char* password = "ANTONIA710";
-String ID = "AKfycbx_IlwSc8gV6RBpQ9TiZlqXHR3ZmXtW883uzeFl_jeyuX79O804RsM-Suh0TsaND5wg";
-String ID2 = "AKfycbz_1pLpmEfC-OGHHNdjH8Yg_x8sPmP6O3Q3vvMgAZ0f2pZr3QA1QbBJa361dZDJeh_n";
+const char* ssid = "";
+const char* password = "";
+String ID = "";
+String ID2 = "";
 
 #define RELE_PIN 26
 
